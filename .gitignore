@@ -1,0 +1,13 @@
+# Local presentation notes
+PRESENTATION_GUIDE.md
+
+# Apache Spark local temporary files
+KULIAHbig-dataspark-tmp/
+
+# Local datasets
+Dataset/
+
+# Local Python environments and generated files
+.venv/
+__pycache__/
+data/

@@ -1,0 +1,14 @@
+# Core Big Data & ML
+pyspark>=3.4.0
+pyarrow>=12.0.0
+
+# Dashboard & Visualisation
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0
